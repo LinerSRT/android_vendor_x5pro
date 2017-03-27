@@ -148,15 +148,15 @@ PRODUCT_COPY_FILES += \
     vendor/doogee/x5pro/proprietary/lib/libcam3_hwnode.so:system/lib/libcam3_hwnode.so \
     vendor/doogee/x5pro/proprietary/lib/libMtkOmxApeDec.so:system/lib/libMtkOmxApeDec.so \
     vendor/doogee/x5pro/proprietary/lib/libem_lte_jni.so:system/lib/libem_lte_jni.so \
-    vendor/doogee/x5pro/proprietary/lib/hw/memtrack.mt6735.so:system/lib/hw/memtrack.mt6735.so \
-    vendor/doogee/x5pro/proprietary/lib/hw/camera.mt6735.so:system/lib/hw/camera.mt6735.so \
+    vendor/doogee/x5pro/proprietary/lib/hw/memtrack.mt6735m.so:system/lib/hw/memtrack.mt6735m.so \
+    vendor/doogee/x5pro/proprietary/lib/hw/camera.mt6735m.so:system/lib/hw/camera.mt6735m.so \
     vendor/doogee/x5pro/proprietary/lib/hw/gralloc.default.so:system/lib/hw/gralloc.default.so \
     vendor/doogee/x5pro/proprietary/lib/hw/keystore.default.so:system/lib/hw/keystore.default.so \
-    vendor/doogee/x5pro/proprietary/lib/hw/hwcomposer.mt6735.so:system/lib/hw/hwcomposer.mt6735.so \
-    vendor/doogee/x5pro/proprietary/lib/hw/audio.primary.mt6735.so:system/lib/hw/audio.primary.mt6735.so \
+    vendor/doogee/x5pro/proprietary/lib/hw/hwcomposer.mt6735m.so:system/lib/hw/hwcomposer.mt6735m.so \
+    vendor/doogee/x5pro/proprietary/lib/hw/audio.primary.mt6735m.so:system/lib/hw/audio.primary.mt6735m.so \
     vendor/doogee/x5pro/proprietary/lib/hw/vibrator.default.so:system/lib/hw/vibrator.default.so \
-    vendor/doogee/x5pro/proprietary/lib/hw/gralloc.mt6735.so:system/lib/hw/gralloc.mt6735.so \
-    vendor/doogee/x5pro/proprietary/lib/hw/sensors.mt6735.so:system/lib/hw/sensors.mt6735.so \
+    vendor/doogee/x5pro/proprietary/lib/hw/gralloc.mt6735m.so:system/lib/hw/gralloc.mt6735m.so \
+    vendor/doogee/x5pro/proprietary/lib/hw/sensors.mt6735m.so:system/lib/hw/sensors.mt6735m.so \
     vendor/doogee/x5pro/proprietary/lib/hw/local_time.default.so:system/lib/hw/local_time.default.so \
     vendor/doogee/x5pro/proprietary/lib/hw/power.default.so:system/lib/hw/power.default.so \
     vendor/doogee/x5pro/proprietary/lib/libcam_hwutils.so:system/lib/libcam_hwutils.so \
@@ -248,7 +248,7 @@ PRODUCT_COPY_FILES += \
     vendor/doogee/x5pro/proprietary/etc/firmware/mt6627/mt6627_fm_v1_patch.bin:system/etc/firmware/mt6627/mt6627_fm_v1_patch.bin \
     vendor/doogee/x5pro/proprietary/etc/firmware/catcher_filter_1_lwg_n.bin:system/etc/firmware/catcher_filter_1_lwg_n.bin \
     vendor/doogee/x5pro/proprietary/etc/firmware/WMT_SOC.cfg:system/etc/firmware/WMT_SOC.cfg \
-    vendor/doogee/x5pro/proprietary/etc/firmware/WIFI_RAM_CODE_6735:system/etc/firmware/WIFI_RAM_CODE_6735 \
+    vendor/doogee/x5pro/proprietary/etc/firmware/WIFI_RAM_CODE_6735m:system/etc/firmware/WIFI_RAM_CODE_6735m \
     vendor/doogee/x5pro/proprietary/etc/firmware/dsp_1_lwg_n.bin:system/etc/firmware/dsp_1_lwg_n.bin \
     vendor/doogee/x5pro/proprietary/etc/mtk_omx_core.cfg:system/etc/mtk_omx_core.cfg \
     vendor/doogee/x5pro/proprietary/etc/.tp/thermal.conf:system/etc/.tp/thermal.conf \
@@ -273,8 +273,8 @@ PRODUCT_COPY_FILES += \
     vendor/doogee/x5pro/proprietary/lib/libfmcust.so:system/lib/libfmcust.so \
     vendor/doogee/x5pro/proprietary/lib/hw/audio.a2dp.default.so:system/lib/hw/audio.a2dp.default.so \
     vendor/doogee/x5pro/proprietary/lib/hw/audio_policy.stub.so:system/lib/hw/audio_policy.stub.so \
-    vendor/doogee/x5pro/proprietary/lib/hw/lights.mt6735.so:system/lib/hw/lights.mt6735.so \
-    vendor/doogee/x5pro/proprietary/lib/hw/radio.fm.mt6735.so:system/lib/hw/radio.fm.mt6735.so \
+    vendor/doogee/x5pro/proprietary/lib/hw/lights.mt6735m.so:system/lib/hw/lights.mt6735m.so \
+    vendor/doogee/x5pro/proprietary/lib/hw/radio.fm.mt6735m.so:system/lib/hw/radio.fm.mt6735m.so \
     vendor/doogee/x5pro/proprietary/lib/hw/remoteir.default.so:system/lib/hw/remoteir.default.so \
     vendor/doogee/x5pro/proprietary/lib/liba3m.so:system/lib/liba3m.so \
     vendor/doogee/x5pro/proprietary/lib/libacdk.so:system/lib/libacdk.so \
