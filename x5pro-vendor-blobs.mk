@@ -248,7 +248,7 @@ PRODUCT_COPY_FILES += \
     vendor/doogee/x5pro/proprietary/etc/firmware/mt6627/mt6627_fm_v1_patch.bin:system/etc/firmware/mt6627/mt6627_fm_v1_patch.bin \
     vendor/doogee/x5pro/proprietary/etc/firmware/catcher_filter_1_lwg_n.bin:system/etc/firmware/catcher_filter_1_lwg_n.bin \
     vendor/doogee/x5pro/proprietary/etc/firmware/WMT_SOC.cfg:system/etc/firmware/WMT_SOC.cfg \
-    vendor/doogee/x5pro/proprietary/etc/firmware/WIFI_RAM_CODE_6735m:system/etc/firmware/WIFI_RAM_CODE_6735m \
+    vendor/doogee/x5pro/proprietary/etc/firmware/WIFI_RAM_CODE_6735:system/etc/firmware/WIFI_RAM_CODE_6735 \
     vendor/doogee/x5pro/proprietary/etc/firmware/dsp_1_lwg_n.bin:system/etc/firmware/dsp_1_lwg_n.bin \
     vendor/doogee/x5pro/proprietary/etc/mtk_omx_core.cfg:system/etc/mtk_omx_core.cfg \
     vendor/doogee/x5pro/proprietary/etc/.tp/thermal.conf:system/etc/.tp/thermal.conf \
