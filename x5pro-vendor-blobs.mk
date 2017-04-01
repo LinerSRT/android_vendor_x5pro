@@ -281,4 +281,7 @@ PRODUCT_COPY_FILES += \
     vendor/doogee/x5pro/proprietary/lib/libcam.campipe.so:system/lib/libcam.campipe.so \
     vendor/doogee/x5pro/proprietary/lib/libhdrproc.so:system/lib/libhdrproc.so \
     vendor/doogee/x5pro/proprietary/lib/libimageio_FrmB.so:system/lib/libimageio_FrmB.so \
-    vendor/doogee/x5pro/proprietary/lib/libpq_cust.so:system/lib/libpq_cust.so
+    vendor/doogee/x5pro/proprietary/lib/libpq_cust.so:system/lib/libpq_cust.so \
+    vendor/doogee/x5pro/proprietary/lib/libgybeauty.so:system/lib/libgybeauty.so \
+    vendor/doogee/x5pro/proprietary/lib/libgybeauty420.so:system/lib/libgybeauty420.so \
+    vendor/doogee/x5pro/proprietary/lib/libgybeauty422.so:system/lib/libgybeauty422.so
