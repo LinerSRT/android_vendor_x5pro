@@ -290,4 +290,5 @@ PRODUCT_COPY_FILES += \
     vendor/doogee/x5pro/proprietary/etc/media_codecs_google_video_le.xml:system/etc/media_codecs_google_video_le.xml \
     vendor/doogee/x5pro/proprietary/etc/media_codecs_mediatek_audio.xml:system/etc/media_codecs_mediatek_audio.xml \
     vendor/doogee/x5pro/proprietary/etc/media_codecs_mediatek_video.xml:system/etc/media_codecs_mediatek_video.xml \
-    vendor/doogee/x5pro/proprietary/etc/media_codecs_performance.xml:system/etc/media_codecs_performance.xml
+    vendor/doogee/x5pro/proprietary/etc/media_codecs_performance.xml:system/etc/media_codecs_performance.xml \
+	vendor/doogee/x5pro/proprietary/lib/libClearMotionFW.so:system/lib/libClearMotionFW.so
