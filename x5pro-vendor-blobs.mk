@@ -153,7 +153,6 @@ PRODUCT_COPY_FILES += \
     vendor/doogee/x5pro/proprietary/lib/hw/gralloc.default.so:system/lib/hw/gralloc.default.so \
     vendor/doogee/x5pro/proprietary/lib/hw/keystore.default.so:system/lib/hw/keystore.default.so \
     vendor/doogee/x5pro/proprietary/lib/hw/hwcomposer.mt6735m.so:system/lib/hw/hwcomposer.mt6735m.so \
-    vendor/doogee/x5pro/proprietary/lib/hw/audio.primary.mt6735m.so:system/lib/hw/audio.primary.mt6735m.so \
     vendor/doogee/x5pro/proprietary/lib/hw/vibrator.default.so:system/lib/hw/vibrator.default.so \
     vendor/doogee/x5pro/proprietary/lib/hw/gralloc.mt6735m.so:system/lib/hw/gralloc.mt6735m.so \
     vendor/doogee/x5pro/proprietary/lib/hw/sensors.mt6735m.so:system/lib/hw/sensors.mt6735m.so \
@@ -275,6 +274,7 @@ PRODUCT_COPY_FILES += \
     vendor/doogee/x5pro/proprietary/lib/hw/audio_policy.stub.so:system/lib/hw/audio_policy.stub.so \
     vendor/doogee/x5pro/proprietary/lib/hw/lights.mt6735m.so:system/lib/hw/lights.mt6735m.so \
     vendor/doogee/x5pro/proprietary/lib/hw/radio.fm.mt6735m.so:system/lib/hw/radio.fm.mt6735m.so \
+    vendor/doogee/x5pro/proprietary/lib/hw/audio.primary.mt6735m.so:system/lib/hw/audio.primary.mt6735m.so \
     vendor/doogee/x5pro/proprietary/lib/hw/remoteir.default.so:system/lib/hw/remoteir.default.so \
     vendor/doogee/x5pro/proprietary/lib/liba3m.so:system/lib/liba3m.so \
     vendor/doogee/x5pro/proprietary/lib/libacdk.so:system/lib/libacdk.so \
@@ -426,7 +426,7 @@ PRODUCT_COPY_FILES += \
     vendor/doogee/x5pro/proprietary/vendor/lib/hw/camera.mt6735m.so:system/vendor/lib/hw/camera.mt6735m.so \
     vendor/doogee/x5pro/proprietary/vendor/lib/hw/gralloc.default.so:system/vendor/lib/hw/gralloc.default.so \
     vendor/doogee/x5pro/proprietary/vendor/lib/hw/hwcomposer.mt6735m.so:system/vendor/lib/hw/hwcomposer.mt6735m.so \
-    vendor/doogee/x5pro/proprietary/vendor/lib/hw/audio.primary.mt6735m.so:system/vendor/lib/hw audio.primary.mt6735m.so \
+    vendor/doogee/x5pro/proprietary/vendor/lib/hw/audio.primary.mt6735m.so:system/vendor/lib/hw/audio.primary.mt6735m.so \
     vendor/doogee/x5pro/proprietary/vendor/lib/hw/gralloc.mt6735m.so:system/vendor/lib/hw/gralloc.mt6735m.so \
     vendor/doogee/x5pro/proprietary/vendor/lib/hw/sensors.mt6735m.so:system/vendor/lib/hw/sensors.mt6735m.so \
     vendor/doogee/x5pro/proprietary/vendor/lib/hw/radio.fm.mt6735m.so:system/vendor/lib/hw/radio.fm.mt6735m.so \
